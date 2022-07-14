@@ -27,8 +27,7 @@ Skeleton of html file shortcut in vscode: type `html:5` and click the prefered o
 | --- | ----------- |
 | `<!--...-->` | Describe a comment text in the source code |
 | `<!doctype>` | Defines a document type |
-| `<a>` | Specific a anchor (Hyperlink)
-Use for link in internal/external web documents. |
+| `<a>` | Specific a anchor (Hyperlink) Use for link in internal/external web documents. |
 | `<address>` | Describes an address information |
 | `<area>` | Defines an area in an image map |
 | `<article>` | Defines an article |
@@ -125,11 +124,6 @@ Use for link in internal/external web documents. |
 | `<var>` | Represents a variable in a computer program or mathematical equation. |
 | `<video>` | Used to embed video content. |
 | `<wbr>` | Defines a word break opportunity in a long string of text. |
-
-
-
-
-
 
 [SOURCE](https://way2tutorial.com/html/tag/index.php) used in this document.
 

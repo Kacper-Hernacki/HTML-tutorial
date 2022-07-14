@@ -3,4 +3,4 @@
 ## Agenda 📚:
 
 - How does the Internet work?
-- - https requests and responses,
+- https requests and responses,
