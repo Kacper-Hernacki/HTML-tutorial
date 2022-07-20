@@ -41,6 +41,14 @@ Tag Syntax
 - end tag is usually the same nut with forward slash
 - some tags close themselves
 
-HTML Page Structure
+HTML Document Structure
 
-<img src="/assets/htmlStructure.png" height="400px" width="700px" />
+<img src="/assets/document-structure.png" height="400px" width="700px" />
+
+HTML Tree Structure
+
+<img src="/assets/tree-structure.png" height="400px" width="700px" />
+
+HTML Semantic Page Structure
+
+<img src="/assets/semantic-structure.png" height="400px" width="700px" />
