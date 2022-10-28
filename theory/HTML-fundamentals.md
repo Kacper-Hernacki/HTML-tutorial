@@ -4,9 +4,9 @@ HTML stands for Hyper Text Markup Language
 
 not a programming language
 
-- it is a very important tool, not a programming languag elike JS, just making presentations
+- it is a very important tool, not a programming language like JS, It is used for just making presentations
 
-Markup Langiage for creating web pages
+Markup Language for creating web pages
 
 building blocks of the web
 
@@ -19,14 +19,16 @@ A text editor
 - vscode,
 - sublime text,
 - atom,
-- brackets
+- brackets,
+- notepad,
+- notepad++
 
 creating an HTML file
 
 - does not need a server
 - files must end with the .html extension
 - runs in a web browser,
-- index.html is the root / home page of a website
+- index.html is the root / home page of a website/ and a default page whenever a folder is opened this page will automatically get opened
 
 Tag Syntax
 
@@ -36,12 +38,14 @@ Tag Syntax
 `<br/>` (self closing tag)
 `<br>` (Fine in HTML5)
 
+
 - Element names surrounded by angle brackets
 - Normally come in pairs (start tag and end tag)
 - end tag is usually the same nut with forward slash
 - some tags close themselves
 
 HTML Document Structure
+
 
 <img src="/assets/document-structure.png" height="400px" width="700px" />
 
@@ -52,3 +56,7 @@ HTML Tree Structure
 HTML Semantic Page Structure
 
 <img src="/assets/semantic-structure.png" height="400px" width="700px" />
+
+
+For understanding a tree structure/ hierarchy of emements you may visit 
+data:image/png;base64,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
