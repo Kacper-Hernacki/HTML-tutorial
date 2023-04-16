@@ -1,5 +1,7 @@
 # HTML Cheatsheet
 
+Link for tutorial: https://codesandbox.io/s/html-course-ozdkmm?file=/index.html
+
 ## Skeleton of HTML file
 
 Skeleton of html file shortcut in vscode: type `html:5` and click the prefered option.
